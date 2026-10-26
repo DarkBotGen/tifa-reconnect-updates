@@ -1,8 +1,8 @@
 {
   "applicationId": "live.noka.rejoin",
-  "versionCode": 100716,
-  "versionName": "2.3.22",
-  "size": 2537282,
-  "sha256": "cf2557d566aa17ea5a57f6d2cf45698a9561330fa41c3a22efddf43003ad7992",
-  "apkUrl": "https://github.com/DarkBotGen/tifa-reconnect-updates/releases/download/build-51-1/Tifa-Rejoin.apk"
+  "versionCode": 100717,
+  "versionName": "2.3.23",
+  "size": 2537278,
+  "sha256": "b0ad66d80759a72ee906c012a00446a5291fe182e3bf625b4fe08e91c97c5e15",
+  "apkUrl": "https://github.com/DarkBotGen/tifa-reconnect-updates/releases/download/build-52-1/Tifa-Rejoin.apk"
 }
